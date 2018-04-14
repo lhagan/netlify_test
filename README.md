@@ -1,2 +1,4 @@
-# netlify_test
-Netlify Test
+
+# Blog
+
+The default [wintersmith](https://github.com/jnordberg/wintersmith) template
