@@ -79,3 +79,5 @@ For example a link to `../bamboo-cutter/index.md` resolves to [`/articles/bamboo
 ---
 
 This is where I leave you to your own devices. Join **#wintersmith** on freenode if you have any questions.
+
+Here's some test content!
